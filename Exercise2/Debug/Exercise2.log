@@ -1,0 +1,3 @@
+﻿  Exercise2.cpp
+c:\users\jerem\source\repos\cis108_labs_and_homework\lab2\cis108_lab2\exercise2\exercise2.cpp(37): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Exercise2.vcxproj -> C:\Users\jerem\source\repos\CIS108_Labs_and_Homework\Lab2\CIS108_Lab2\Debug\Exercise2.exe
